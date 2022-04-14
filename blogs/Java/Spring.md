@@ -70,7 +70,7 @@ IOC理论推导
 
 项目结构：
 
-![image-20210807163750790](https://gitee.com/goodsir555/typora-Picture_bed/raw/master/img/202108210230421.png)
+![image-20210807163750790](https://github.com/1677883418/TyporaBed/raw/master/img/202108210230421.png)
 
 实现步骤:
 
@@ -1156,6 +1156,6 @@ Spring配置文件中开启事务[ApplicationContext.xml]:
 
 事务属性的区别:
 
-![](https://gitee.com/goodsir555/typora-Picture_bed/raw/master/img/202108210229405.png)
+![](https://github.com/1677883418/TyporaBed/raw/master/img/202108210229405.png)
 
    

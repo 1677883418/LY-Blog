@@ -1,8 +1,8 @@
 ---
-title: 👹我？
+title: 😺我？
 ---
 
-## 👹我是远方的孩子
+## 🐴我是远方的孩子
 
 出生于重庆,在河南成长,目前在新疆读本科.
 
@@ -11,40 +11,44 @@ title: 👹我？
 努力做好自己,相信一切都是最好的安排
 
 ## 🚶今年规划
-<div class="review">
-    <b>Java</b>
-    <div class="progress">
-        <div class="progress-done" data-done="60" style="width: 60%;"></div>
-    </div>
-    <span class="percent">50%</span>
-</div>
+总说要搞算法要搞算法,结果总是下次一定.
+2022年一定要刷明白算法！！！
 <div class="review">
     <b>驾照</b>
     <div class="progress">
-        <div class="progress-done" data-done="50" style="width: 50%;"></div>
+        <div class="progress-done" style="width: 50%;"></div>
     </div>
-    <span class="percent">50%</span>
+    <span class="percent">75%</span>
 </div>
+
+<div class="review">
+    <b>Java</b>
+    <div class="progress">
+        <div class="progress-done" style="width: 30%;"></div>
+    </div>
+    <span class="percent">30%</span>
+</div>
+
 <div class="review">
     <b>SQL</b>
     <div class="progress">
-        <div class="progress-done" data-done="10" style="width: 10%;"></div>
+        <div class="progress-done" style="width: 10%;"></div>
     </div>
     <span class="percent">10%</span>
 </div>
 <div class="review">
     <b>内功四件套</b>
     <div class="progress">
-        <div class="progress-done" data-done="0" style="width: 0%;"></div>
+        <div class="progress-done"  style="width: 10%;"></div>
     </div>
-    <span class="percent">0%</span>
+    <span class="percent">10%</span>
 </div>
 <div class="review">
     <b>算法</b>
     <div class="progress">
-        <div class="progress-done" data-done="0" style="width: 0%;"></div>
+        <div class="progress-done"  style="width: 1%;"></div>
     </div>
-    <span class="percent">0%</span>
+    <span class="percent">1%</span>
 </div>
 
 

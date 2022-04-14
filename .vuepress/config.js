@@ -22,38 +22,38 @@ module.exports = {
     "themeConfig": {
         "nav": [
             {
-                "text": "Home",
+                "text": "首页",
                 "link": "/",
                 "icon": "reco-home"
             },
             {
-                "text": "TimeLine",
+                "text": "时间线",
                 "link": "/timeline/",
                 "icon": "reco-date"
             },
             {
-                "text": "Docs",
-                "icon": "reco-message",
+                "text": "工具",
+                "icon": "reco-api",
                 "items": [
                     {
-                        "text": "vuepress-reco",
-                        "link": "/docs/theme-reco/"
+                        "text": "个人网盘",
+                        "link": "https://pan.lystu.cn"
                     }
                 ]
             },
             {
-                "text": "Contact",
+                "text": "联系方式",
                 "icon": "reco-message",
                 "items": [
                     {
                         "text": "GitHub",
-                        "link": "https://github.com/recoluan",
+                        "link": "https://github.com/1677883418",
                         "icon": "reco-github"
                     }
                 ]
             },
             {
-                "text": "About",
+                "text": "关于",
                 "icon": "reco-message",
                 "link": "/docs/LY'Blog/",
             },
@@ -68,11 +68,11 @@ module.exports = {
         "blogConfig": {
             "category": {
                 "location": 2,
-                "text": "Category"
+                "text": "类别"
             },
             "tag": {
                 "location": 3,
-                "text": "Tag"
+                "text": "标签"
             }
         },
         "friendLink": [
@@ -83,20 +83,20 @@ module.exports = {
                 "link": "https://www.recoluan.com"
             },
             {
-                "title": "vuepress-LY'Blog",
-                "desc": "A simple and beautiful vuepress Blog & Doc theme.",
-                "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
-                "link": "https://vuepress-theme-reco.recoluan.com"
+                "title": "Cxwht's Blog",
+                "desc": "愿你势均力敌 双向奔赴",
+                "avatar": "https://cxwht.cn/favicon.ico",
+                "link": "https://cxwht.cn/"
             }
         ],
-        "logo": "/logo.png",
+        "logo": "/avatar.webp",
         "search": true,
         "searchMaxSuggestions": 10,
         "lastUpdated": "Last Updated",
-        "author": "Nepenthe",
+        "author": "肥羊",
         "authorAvatar": "/avatar.webp",
-        "record": "xxxx",
-        "startYear": "2017"
+        "record": "豫ICP备2022009289号",
+        "startYear": "2021"
     },
     "markdown": {
         "lineNumbers": true

@@ -463,9 +463,9 @@ passwd=
 
 **Mybatis中极为重要的调整设置,它们会改变Mybatis的运行时行为**
 
-![image-20210720185658912](https://gitee.com/goodsir555/typora-Picture_bed/raw/master/img/202108210231157.png)
+![image-20210720185658912](https://github.com/1677883418/TyporaBed/raw/master/img/202108210231157.png)
 
-![image-20210720185636618](https://gitee.com/goodsir555/typora-Picture_bed/raw/master/img/202108210231158.png)
+![image-20210720185636618](https://github.com/1677883418/TyporaBed/raw/master/img/202108210231158.png)
 
 ### 其他配置
 
@@ -518,7 +518,7 @@ MapperRegistry:注册绑定我们的Mapper文件;
 
 ### 作用域和生命周期
 
-![image-20210724115625357](https://gitee.com/goodsir555/typora-Picture_bed/raw/master/img/202108210231159.png)
+![image-20210724115625357](https://github.com/1677883418/TyporaBed/raw/master/img/202108210231159.png)
 
 生命周期和作用域是至关重要的,错误的使用会导致非常严重的并发问题。
 
@@ -540,7 +540,7 @@ MapperRegistry:注册绑定我们的Mapper文件;
 * SqlSession的实例不是线程安全的,因此是不能被共享的，因此它的最佳作用域是请求或方法作用域。
 * 用完之后应该关闭,否则资源被占用。
 
-![image-20210724121723764](https://gitee.com/goodsir555/typora-Picture_bed/raw/master/img/202108210231160.png)
+![image-20210724121723764](https://github.com/1677883418/TyporaBed/raw/master/img/202108210231160.png)
 
 这里面的每一个Mapper,就代表一个具体的业务
 
@@ -550,7 +550,7 @@ MapperRegistry:注册绑定我们的Mapper文件;
 
 数据库中的字段
 
-![image-20210731114526062](https://gitee.com/goodsir555/typora-Picture_bed/raw/master/img/202108210231161.png)
+![image-20210731114526062](https://github.com/1677883418/TyporaBed/raw/master/img/202108210231161.png)
 
 新建一个项目，拷贝之前的，测试实体类字段不一致的情况
 
@@ -564,7 +564,7 @@ public class User {
 
 测试出现问题
 
-![image-20210731144920023](https://gitee.com/goodsir555/typora-Picture_bed/raw/master/img/202108210231162.png)
+![image-20210731144920023](https://github.com/1677883418/TyporaBed/raw/master/img/202108210231162.png)
 
 ```sql
         select *
@@ -623,7 +623,7 @@ id name password
 
 现在:日志工厂
 
-![image-20210802123628071](https://gitee.com/goodsir555/typora-Picture_bed/raw/master/img/202108210231163.png)
+![image-20210802123628071](https://github.com/1677883418/TyporaBed/raw/master/img/202108210231163.png)
 
 * SLF4J
 * LOG4J [掌握]

@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: LY'Blog
-tagline: 😃纵有千古,横有八荒✊前途似海,来日方长😋
+tagline: 😃纵有千古 横有八荒 前途似海 来日方长😋
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',

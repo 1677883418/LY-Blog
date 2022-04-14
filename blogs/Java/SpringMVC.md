@@ -188,13 +188,13 @@ public class HelloController implements Controller {
 
 **项目结构内，添加web模块即可**
 
-![image-20210820143245328](https://gitee.com/goodsir555/typora-Picture_bed/raw/master/img/202109111628665.png)
-
+![image-20210820143245328](https://github.com/1677883418/TyporaBed/raw/master/img/202109111628665.png)
+``
 #### 404错误[不生成target文件夹]
 
 删除图中部分
 
-![image-20210911164653782](https://gitee.com/goodsir555/typora-Picture_bed/raw/master/img/202109111646078.png)
+![image-20210911164653782](https://github.com/1677883418/TyporaBed/raw/master/img/202109111646078.png)
 
 404错误[目标控制器404]
 
@@ -204,11 +204,11 @@ public class HelloController implements Controller {
 
 新建lib文件夹，将依赖手动导入。
 
-![image-20210820143443955](https://gitee.com/goodsir555/typora-Picture_bed/raw/master/img/202108210226250.png)
+![image-20210820143443955](https://github.com/1677883418/TyporaBed/raw/master/img/202108210226250.png)
 
 ## SpringMVC执行原理
 
-![image-20210820150509883](https://gitee.com/goodsir555/typora-Picture_bed/raw/master/img/202108210226991.png)
+![image-20210820150509883](https://github.com/1677883418/TyporaBed/raw/master/img/202108210226991.png)
 
 ### 执行流程
 
@@ -471,11 +471,11 @@ public class UserController {
 
 url传入参数
 
-![image-20210826021538533](https://gitee.com/goodsir555/typora-Picture_bed/raw/master/img/202109111628562.png)
+![image-20210826021538533](https://github.com/1677883418/TyporaBed/raw/master/img/202109111628562.png)
 
 输出结果
 
-![image-20210826021512514](https://gitee.com/goodsir555/typora-Picture_bed/raw/master/img/202109111628174.png)
+![image-20210826021512514](https://github.com/1677883418/TyporaBed/raw/master/img/202109111628174.png)
 
 如果使用对象的花,前端传递的参数名和对象名必须一致，否则就是null.
 
@@ -591,7 +591,7 @@ public class EncodingFilter implements Filter {
 
 #### 注意
 
-![image-20210826231443190](https://gitee.com/goodsir555/typora-Picture_bed/raw/master/img/202109111628953.png)
+![image-20210826231443190](https://github.com/1677883418/TyporaBed/raw/master/img/202109111628953.png)
 
 `<url-pattern>/<url-pattern>`**不过滤**jsp文件
 
@@ -1009,13 +1009,13 @@ insert into `books` (`bookID`,`bookName`,`bookCounts`,`detail`)values
     * pojo[对象模型层]
     * service[服务层]
 
-  ![image-20210829145902939](https://gitee.com/goodsir555/typora-Picture_bed/raw/master/img/202109111629228.png)
+  ![image-20210829145902939](https://github.com/1677883418/TyporaBed/raw/master/img/202109111629228.png)
 
 * 创建resources文件
 
     * 项目结构
 
-  ![image-20210911151519593](https://gitee.com/goodsir555/typora-Picture_bed/raw/master/img/202109111629480.png)
+  ![image-20210911151519593](https://github.com/1677883418/TyporaBed/raw/master/img/202109111629480.png)
 
     * **Spring核心配置文件**  applicationContext.xml
 
@@ -1806,15 +1806,15 @@ public String deleteBook(@PathVariable("bookID") int id) {
 
 ##### 项目结构图
 
-![image-20210911161720806](https://gitee.com/goodsir555/typora-Picture_bed/raw/master/img/202109111629038.png)
+![image-20210911161720806](https://github.com/1677883418/TyporaBed/raw/master/img/202109111629038.png)
 
 项目预览
 
-![image-20210911170517703](https://gitee.com/goodsir555/typora-Picture_bed/raw/master/img/202109111705340.png)
+![image-20210911170517703](https://github.com/1677883418/TyporaBed/raw/master/img/202109111705340.png)
 
-![image-20210911170541520](https://gitee.com/goodsir555/typora-Picture_bed/raw/master/img/202109111705341.png)
+![image-20210911170541520](https://github.com/1677883418/TyporaBed/raw/master/img/202109111705341.png)
 
-![image-20210911170617888](https://gitee.com/goodsir555/typora-Picture_bed/raw/master/img/202109111706121.png)
+![image-20210911170617888](https://github.com/1677883418/TyporaBed/raw/master/img/202109111706121.png)
 
 #### 小结
 
@@ -1951,7 +1951,7 @@ public class StudentController {
 
 api文档地址为ip:端口/项目名/swagger-ui.html
 
-![image-20211003024645564](https://gitee.com/goodsir555/typora-Picture_bed/raw/master/img/202110030246466.png)
+![image-20211003024645564](https://github.com/1677883418/TyporaBed/raw/master/img/202110030246466.png)
 
 如图测试成功
 
@@ -1966,8 +1966,8 @@ api文档地址为ip:端口/项目名/swagger-ui.html
   at http://example.org/api/v2/api-docs then the base url is http://example.org/api/. Please enter the location
   manually: "
     * 报错翻译如下：
-        * ![image-20211003025303177](https://gitee.com/goodsir555/typora-Picture_bed/raw/master/img/202110030253245.png)
+        * ![image-20211003025303177](https://github.com/1677883418/TyporaBed/raw/master/img/202110030253245.png)
     * 检查是否在maven中导入了springboot依赖,如果使用的是springboot,请确保在启动类中上方使用@EnableSwagger2注解而不是在SwaggerConfig配置类上方(),
     * 如果确定使用的是SSM框架且没有导入SpringBoot依赖,检查注解是否正确
-        * ![image-20211003025647564](https://gitee.com/goodsir555/typora-Picture_bed/raw/master/img/202110030256943.png)
+        * ![image-20211003025647564](https://github.com/1677883418/TyporaBed/raw/master/img/202110030256943.png)
 
