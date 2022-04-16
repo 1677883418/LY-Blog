@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "4e2ba639a554da3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bb1beba1679a821",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6de64eafc528657d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "template/template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c49b8c575b880abd",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d8744d670c72fdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42201ec67e185a5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3c54e48410aac5f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "409560641b5b0b56",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f194f1a21cfb7c59",
+    "type": "split",
+    "children": [
+      {
+        "id": "d37694590f3777b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2fe275fcf2f6e03",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "template/template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8bc4e2736155c20a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e11589666aec63a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "template/template.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f8fc1999631d58f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "template/template.md"
+              }
+            }
+          },
+          {
+            "id": "317284a9c4012052",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329.5,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "6de64eafc528657d",
+  "lastOpenFiles": [
+    "123.md",
+    "template/template.md",
+    "docs/LY'Blog/me.md",
+    "docs/LY'Blog/软件清单/Linux软件清单.md",
+    "blogs/Web/html标签.md",
+    "blogs/review/Redmi AC2100  刷机教程.md",
+    "blogs/review/大二生活复盘.md",
+    "blogs/BigData/Spark原理与实践.md",
+    "blogs/BigData/SQL Optimizer 解析.md",
+    "blogs/dataStructuresAndAlgorithms/algorithms.md"
+  ]
+}

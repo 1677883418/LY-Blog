@@ -11,14 +11,15 @@ title: 😺我？
 努力做好自己,相信一切都是最好的安排
 
 ## 🚶今年规划
+
 总说要搞算法要搞算法,结果总是下次一定.
 2022年一定要刷明白算法！！！
 <div class="review">
     <b>驾照</b>
     <div class="progress">
-        <div class="progress-done" style="width: 50%;"></div>
+        <div class="progress-done" style="width: 100%;"></div>
     </div>
-    <span class="percent">75%</span>
+    <span class="percent">100%</span>
 </div>
 
 <div class="review">
@@ -46,9 +47,9 @@ title: 😺我？
 <div class="review">
     <b>算法</b>
     <div class="progress">
-        <div class="progress-done"  style="width: 1%;"></div>
+        <div class="progress-done"  style="width: 10%;"></div>
     </div>
-    <span class="percent">1%</span>
+    <span class="percent">10%</span>
 </div>
 
 

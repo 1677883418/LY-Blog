@@ -1,5 +1,6 @@
 ---
 title: Mybatis
+date: 2021-6-16 
 tags:
  - Mybatis
 categories:
@@ -365,7 +366,7 @@ Mybatis可以配置成适应多种环境
 
 学会使用配置多套运行环境
 
-Mybatis默认的事务管理器是JDBC,连接池:POOLED
+Mybatis默认的事务管理器是[[JDBC]],连接池:POOLED
 
  ```xml
 <environments default="development">
@@ -385,7 +386,7 @@ Mybatis默认的事务管理器是JDBC,连接池:POOLED
 
 #### 事务管理器(transactionManager)
 
-面试考点==事务管理器两种分别为	JDBC与MANAGED==
+面试考点==事务管理器两种分别为	[[JDBC]]与MANAGED==
 
 #### 数据源(dataSource)
 
