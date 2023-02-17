@@ -1,8 +1,10 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "Obsidian Nord",
   "translucency": true,
   "baseFontSize": 21,
-  "textFontFamily": "Monaco",
+  "textFontFamily": "Monaco,JetBrainsMono Nerd Font",
   "theme": "obsidian",
-  "accentColor": ""
+  "accentColor": "",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font"
 }

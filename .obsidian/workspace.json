@@ -8,18 +8,51 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6de64eafc528657d",
+            "id": "757af7c113968195",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/template.md",
+                "file": "blogs/Golang/golang三件套.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "433fff8037fec897",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "e9bd633485d99d94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/BigData/大数据Shuffle原理与实践.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce72c4143081b4e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/Linux/Linux客制化.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -65,12 +98,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f194f1a21cfb7c59",
@@ -86,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/template.md",
+                "file": "blogs/Linux/Linux客制化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/template.md",
+                "file": "blogs/Linux/Linux客制化.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/template.md"
+                "file": "blogs/Linux/Linux客制化.md"
               }
             }
           },
@@ -138,28 +170,38 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
+    "width": 200,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "publish:发布更改": false
+    }
   },
-  "active": "6de64eafc528657d",
+  "active": "ce72c4143081b4e9",
   "lastOpenFiles": [
-    "123.md",
-    "template/template.md",
-    "docs/LY'Blog/me.md",
-    "docs/LY'Blog/软件清单/Linux软件清单.md",
+    "blogs/Linux/openStack.md",
+    "blogs/Linux/Linux客制化.md",
+    "blogs/Golang/golang三件套.md",
+    "blogs/Golang/golang基础.md",
     "blogs/Web/html标签.md",
+    "blogs/BigData/大数据Shuffle原理与实践.md",
     "blogs/review/Redmi AC2100  刷机教程.md",
-    "blogs/review/大二生活复盘.md",
-    "blogs/BigData/Spark原理与实践.md",
-    "blogs/BigData/SQL Optimizer 解析.md",
-    "blogs/dataStructuresAndAlgorithms/algorithms.md"
+    "blogs/Java/JavaWeb.md",
+    "blogs/review/歌华链ghl-r-001救砖日记.md",
+    "blogs/review/数学考研安排.md"
   ]
 }
