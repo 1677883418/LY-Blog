@@ -135,18 +135,27 @@ module.exports = {
                 ]
             },
             {
+                "text": "考研",
+                "icon": "reco-message",
+                "link": "/docs/考研/",
+            },
+            {
                 "text": "关于",
                 "icon": "reco-message",
                 "link": "/docs/LY'Blog/",
             },
         ],
 //        侧边栏
-        /*        "sidebar": {
-                    "/docs/LY'Blog/": [
+                "sidebar": {
+                    "/docs/考研/":[
+                        "",
+
+                    ],
+/*                    "/docs/LY'Blog/": [
                         "",
                         "me",
-                    ]
-                },*/
+                    ]*/
+                },
         "blogConfig": {
             "category": {
                 "location": 2,
@@ -191,6 +200,9 @@ module.exports = {
         "startYear": "2021"
     },
     "markdown": {
-        "lineNumbers": true
+        "lineNumbers": true,
+        plugins: {
+
+        }
     }
 }
